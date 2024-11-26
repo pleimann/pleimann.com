@@ -9,15 +9,16 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Mike Pleimann's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Mike Pleimann`,
+      summary: `I architect and build software systems`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A blog for my things.`,
+    siteUrl: `https://pleimann.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `penguin944`,
+      github: `pleimann`
     },
   },
   plugins: [
